@@ -9,7 +9,7 @@
 
 <img src="./project-work.drawio.png">
 
-**Example of My Automation PowerApps:**
+**Example of My Application in Microsoft 365 PowerApps:**
 
 https://github.com/user-attachments/assets/62b24e39-9aa6-42d7-940e-e3551bcb78f0
 
