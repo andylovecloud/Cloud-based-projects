@@ -8,3 +8,13 @@
 **Project overview:**
 
 <img src="/project-work.drawio.png">
+
+Example of My Automation PowerApps
+
+<video id="player" playsinline controls data-poster="/path/to/poster.jpg">
+  <source src="./Return-files/5.PowerApps-Orientation-Information.mov" type="video/mov" />
+  <source src="/path/to/video.webm" type="video/webm" />
+
+  <!-- Captions are optional -->
+ <!--> <track kind="captions" label="English captions" src="/path/to/captions.vtt" srclang="en" default />-->
+</video>
