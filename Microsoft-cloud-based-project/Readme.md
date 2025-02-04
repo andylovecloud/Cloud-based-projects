@@ -7,7 +7,7 @@
 
 **Project overview:**
 
-<img src="/project-work.drawio.png">
+<img src="./project-work.drawio.png">
 
 **Example of My Automation PowerApps:**
 
